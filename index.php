@@ -14,6 +14,7 @@ $str2 = "PHP!";
 echo $str1 . $str2;
 
 ?></h1>
+    <hr>
     <a href="sum.php">Sum</a>
 </body>
 
